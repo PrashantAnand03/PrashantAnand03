@@ -1,7 +1,7 @@
  Hi there,
     I am Prashant Anand 👋
 
-    ## I am Front-end Developer, specializing in crafting dynamic, responsive websites that captivate users. 
+    -- I am Front-end Developer, specializing in crafting dynamic, responsive websites that captivate users. 
 
 <!--
 **PrashantAnand03/PrashantAnand03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
