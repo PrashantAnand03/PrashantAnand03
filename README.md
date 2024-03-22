@@ -1,7 +1,7 @@
  Hi there,
     I am Prashant Anand 👋
 <hr>
- -- I am Front-end Developer, specializing in crafting dynamic, responsive websites that captivate users. 
+  - I am Front-end Developer, specializing in crafting dynamic, responsive websites that captivate users. 
 
 
 - 🔭 I’m currently working on ...
