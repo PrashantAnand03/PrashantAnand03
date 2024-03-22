@@ -7,7 +7,7 @@
   - 🌱 I’m currently learning: React.js and Node.js
   - 👯 I’m looking to collaborate on an Open-Source project
   - 💬 Ask me about Front-end Development and Java.
-  - 📫 How to reach me: [Email]_(mailto:prashantanandcse2025@gmail.com).
+  - 📫 How to reach me: [Email](mailto:prashantanandcse2025@gmail.com)
     <!--  - ⚡ **Personal Website:** [Portfolio]_(link). -->
 
 -- ## Skills
