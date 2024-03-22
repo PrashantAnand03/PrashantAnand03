@@ -26,7 +26,7 @@
 
 - ## Connect with Me
   - [Github](https://github.com/PrashantAnand03)
-  - [LinkdIn](https://www.linkedin.com/in/prashant-anand2oo3)
+  - [LinkedIn](https://www.linkedin.com/in/prashant-anand2oo3)
   - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prashantanand03)
   - [Twitter](https://twitter.com/PrashanAnand)
 
