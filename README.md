@@ -1,4 +1,4 @@
-- # Hi there, I'm [Prashant Anand] 👋
+- # Hi there, I'm Prashant Anand 👋
 
 - I'm a Front-end developer, specializing in crafting dynamic, responsive websites that captivate users. 
 
