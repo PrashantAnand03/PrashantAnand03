@@ -11,9 +11,9 @@
     <!--  - ⚡ **Personal Website:** [Portfolio](link). -->
 
 - ## Skills
-  - **Programming Language:** Java, JavaScript  
-  - **Front-end development:** HTML, CSS
-  - **Front-end Frameworks:** React, Bootstrap
+  - **Programming Language:** Java 
+  - **Front-end development:** HTML, CSS, JavaScript 
+  - **Front-end Frameworks:** React, Bootstrap 5
   - **Version Control:** Git, GitHub
   - **Database:** MySQL 
   - **Tools & Technologies:** VS Code
