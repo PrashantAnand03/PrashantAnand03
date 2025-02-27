@@ -1,6 +1,6 @@
 - # Hi there, I'm Prashant Anand 👋
 
-- I'm a MERN Stack Developer, specializing in crafting dynamic, responsive websites that captivate users. 
+- I'm a Full Stack MERN Developer, specializing in crafting dynamic, responsive websites that captivate users. 
 
   - 😀 Pronouns: He/Him
   - 🔭 I’m currently working on enhancing my coding skills while developing dynamic websites.
