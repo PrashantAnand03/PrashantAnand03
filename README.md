@@ -103,7 +103,7 @@ Here are some of my best projects 🚀
 
 | Hackathon | Project Built |
 |-----------|--------------|
-| 🏆 **Mercer mettl Limitless Hackathon** | Crafted a **Carbon Footprint Tracker App**, **Ranked 22nd and placed among the top 50 teams**. |
+|🏆**Mercer mettl Limitless Hackathon** | Crafted a **Carbon Footprint Tracker App**, **Ranked 22nd and placed among the top 50 teams**. |
 
 ![Hackathon Win](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 ---
