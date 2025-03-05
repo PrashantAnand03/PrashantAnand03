@@ -48,7 +48,6 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
     <td><img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4&title=Commit,Repositories,PullRequest,Junior" alt="Trophies" /></td>
     <td><img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" alt="GSSoC Badge" /></td>
     <td><a href="https://github.com/PrashantAnand03"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" height="100px" alt="Pull Shark Badge" /></a></td>
-    <td><a href="https://auth.geeksforgeeks.org/user/PrashantAnand03"><img src="https://media.geeksforgeeks.org/badges_dir/07b30f0449c44e9936aa5eead13873623447ee6d553428705ac5a7aac8d8490b.png" width="100px" height="100px" alt="GeeksforGeeks Badge" /></a></td>
 </tr>
 </table>
 
@@ -102,9 +101,11 @@ Here are some of my best projects 🚀
 
 | Hackathon | Project Built |
 |-----------|--------------|
-| 🏆 **Mercer mettl Limitless Hackathon 2024** | Crafted a **Carbon Footprint Tracker App**, won ** Ranked 22nd and placed among the top 50 teams**. |
+| 🏆 **Mercer mettl Limitless Hackathon'24** | Crafted a **Carbon Footprint Tracker App**, **Ranked 22nd and placed among the top 50 teams**. |
 
 ![Hackathon Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Teamwork in a Hackathon](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif) 
+![Intense Coding Mode](https://media.giphy.com/media/l3q2Ip7FrmPEuJgJy/giphy.gif)  
 
 ---
 
