@@ -46,7 +46,6 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&row=1&column=3&margin-w=15" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
- [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Badge-green?style=for-the-badge)](https://media.geeksforgeeks.org/badges_dir/07b30f0449c44e9936aa5eead13873623447ee6d553428705ac5a7aac8d8490b.png)
 </div>
 
 ---
