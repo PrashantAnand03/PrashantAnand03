@@ -7,19 +7,21 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 ---
 
 ## 🚀 **My GitHub Stats**
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrashantAnand03&theme=radical)
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight)
+
+### 🔥 **GitHub Streak**
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrashantAnand03&theme=dark&hide_border=true&background=000000)
 
 ---
 
 ## 🏆 **GitHub Trophies**
-![Trophies](https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true)
 
 ---
 
 ## 📊 **GitHub Contribution Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)
 
 ---
 
@@ -47,7 +49,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 ## 🎯 **Hackathons & Competitions**
 🎖 Participated in **multiple hackathons**, showcasing innovative ideas and building real-world projects under time constraints.
 
-![Hackathon Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Hackathon Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ✔️ **Hack The Mountains 2023** – Developed a **real-time collaborative coding platform**.  
 ✔️ **DevHack 2024** – Created a **Smart Expense Tracker** using **React & Firebase**.  
