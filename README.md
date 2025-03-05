@@ -54,7 +54,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 
 ---
 
-## 🚀 **My GitHub Stats**  
+## 📊 **My GitHub Stats**  
 
 <table width="100%" align="center">
   <tr>
@@ -76,8 +76,8 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 </table>
 
 
-## 📊 **GitHub Contribution Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)
+<!--## 📊 **GitHub Contribution Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)-->
 ---
 
 ## 🔥 **Notable Projects**
