@@ -18,7 +18,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 ---
 
 ## 🏆 **GitHub Trophies**
-![Trophies](https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-https://gssoc.girlscript.tech/badges/1.png?imwidth=96=true&no-frame=true)
 
 ---
 
