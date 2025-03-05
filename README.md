@@ -1,31 +1,27 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PrashantAnand03&label=Profile%20Views&color=0e75b6&style=flat)
+---
 # Hi there, I'm Prashant Anand 👋
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
-
 
 I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsive websites that enhance user experiences.
 
 - 😀 Pronouns: He/Him
-  - 🔭 I’m currently working on enhancing my coding skills while developing dynamic websites.
+  - 🔭 I’m currently working on enhancing my coding skills.
   - 🌱 I’m currently learning MERN Stack.
-  - 👯 I’m looking to collaborate on an Open-Source project
-  - 💬 Ask me about Front-end Development and Java.
+  - 💬 Ask me about Web Development and Java.
   - 📫 How to reach me: [Email](mailto:prashantanandcse2025@gmail.com)
     <!--  - ⚡ **Personal Website:** [Portfolio](link). -->
 
-- ## Skills
+- ## 💻 **My Technical Skills**
   - **Programming Language:** Java 
   - **Front-end development:** HTML, CSS, JavaScript 
   - **Front-end Frameworks:** React.js, Bootstrap 5
   - **Version Control:** Git, GitHub
-  - **Database:** MySQL 
+  - **Database:** MongoDB
   - **Tools & Technologies:** VS Code
 
 <br>
 <br>
-
-
----
 
 ## 🚀 **My GitHub Stats**
 ![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide=c,cpp)
