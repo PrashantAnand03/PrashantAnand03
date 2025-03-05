@@ -53,7 +53,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 
 ---
 
-## 🚀 **GitHub Stats**  
+## **My GitHub Stats**  
 
 <div align="center">
   <table>
@@ -65,7 +65,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=10&hide=c,cpp,python" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" />
+       <img src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" />
       </td>
     </tr>
   </table>
