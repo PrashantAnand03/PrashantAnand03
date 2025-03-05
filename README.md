@@ -53,25 +53,32 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 
 ---
 
-## **My GitHub Stats**  
+## 🚀 **My GitHub Stats**  
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide=c,cpp" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=10&hide=c,cpp,python" />
-      </td>
-      <td>
-       <img src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashantAnand03&theme=tokyonight" alt="Profile Summary">
+    </td>
+  </tr>
+</table>
 
----
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="450em" src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 **GitHub Contribution Graph**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)
