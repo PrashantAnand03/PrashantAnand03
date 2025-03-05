@@ -77,13 +77,6 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 
 ## 📊 **GitHub Contribution Graph**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)
-<table>
-<tr>
-    <td align="center" colspan="2">
-      <img width="450em" src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
 ---
 
 ## 🔥 **Notable Projects**
@@ -91,35 +84,31 @@ Here are some of my best projects 🚀
 
 | Project Name  | Description  |
 |--------------|-------------|
+| 🍽️ **[Syncify real-time Collaboration App](https://frontendproj-xi.vercel.app/)**  | Syncify is a Simple MERN application allows users to perform CRUD operations on documents with real-time updates. |
 | 📰 **[Insight-hub News App](https://insight-hub-green.vercel.app/)**  | A news aggregation platform delivering real-time updates globally. |
 | 🌍 **[Carbon Footprint Tracker](https://carbon-footprint-tracker-rho.vercel.app/)**  | Tracks and reduces carbon footprint for sustainable living. |
 | ✈️ **[Tour and Travel App](https://659b0dc3482624d15119b69b--endearing-rugelach-0c6e02.netlify.app/)** | Helps users plan trips effortlessly with curated travel packages. |
-| 🍽️ **[Smart Recipe Finder](https://smart-recipe-app.com/)**  | AI-powered recipe recommendation app based on available ingredients. |
 
 ---
 ## 🌱 **Open Source Contributions**
 🎯 Actively contributing to open-source repositories to **collaborate, learn, and give back** to the developer community!  
-- ✅ Participated in **Hacktoberfest** & multiple Open-Source programs  
-- ✅ Contributed PRs in **MERN & JavaScript projects**  
-- ✅ Exploring new opportunities in **Open Source & Hackathons**  
-
+- Participated in **GirlScript Summer of Code 2024**.
+- Contributed PRs in **MERN & JavaScript projects**  
+- Exploring new opportunities in **Open Source & Hackathons**  
 ---
 
 ## 🏆 **Hackathons & Competitions**
-🚀 Participated in **major hackathons** and built real-world projects under time constraints.  
 
 | Hackathon | Project Built |
 |-----------|--------------|
-| 🎖 **Hack The Mountains 2023** | Built a **real-time collaborative coding platform**. |
-| 🔥 **DevHack 2024** | Developed a **Smart Expense Tracker** using React & Firebase. |
-| 🏆 **CodeFest 2024** | Created a **Health Tracking App**, won **Best UI/UX Design**. |
+| 🏆 **Mercer mettl Limitless Hackathon 2024** | Crafted a **Carbon Footprint Tracker App**, won ** Ranked 22nd and placed among the top 50 teams**. |
 
 ![Hackathon Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
 ## 🌍 **Let's Connect!**
-💬 Feel free to reach out for **collaborations, mentorship, or just a tech chat!**  
+💬 Feel free to reach out for **collaborations, or just a tech chat!**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrashantAnand03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantanand03/)
@@ -128,4 +117,4 @@ Here are some of my best projects 🚀
 
 ---
 
-💡 *Let's build something amazing together! Connect & collaborate!* 🚀
+💡 *Let's build something amazing together! Connect & collaborate!*
