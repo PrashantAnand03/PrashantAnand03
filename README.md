@@ -75,6 +75,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
   <tr>
     <td align="center" colspan="2">
       <img width="450em" src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" />
     </td>
   </tr>
 </table>
