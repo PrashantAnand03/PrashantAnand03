@@ -7,8 +7,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 
 💡 **What I Do:**  
 - 🎯 Specializing in **MERN Stack Development**  
-- 🔭 Currently enhancing my **coding & problem-solving** skills  
-- 🌱 Learning **advanced backend optimizations & DevOps**  
+- 💻 Currently enhancing my **coding & problem-solving** skills  
 - 👯 Looking to collaborate on **Open Source & Hackathons**  
 - 📫 Reach me via [Email](mailto:prashantanandcse2025@gmail.com)  
 
