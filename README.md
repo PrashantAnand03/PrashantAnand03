@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=PrashantAnand03&label=Profile%20Views&color=0e75b6&style=flat)
 # Hi there, I'm Prashant Anand 👋
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
@@ -23,7 +24,6 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 <br>
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrashantAnand03&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
