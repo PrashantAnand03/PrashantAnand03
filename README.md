@@ -86,7 +86,7 @@ Here are some of my best projects 🚀
 
 | Project Name  | Description  |
 |--------------|-------------|
-| 💬 **[Real-Time Collaboration web App](https://frontendproj-xi.vercel.app/)**  | Syncify is a Simple MERN application allows users to perform CRUD operations on documents with real-time updates. |
+| 💬 **[Real-Time Collaboration App](https://frontendproj-xi.vercel.app/)**  | Syncify is a Simple MERN application allows users to perform CRUD operations on documents with real-time updates. |
 | 📰 **[Insight-hub News App](https://insight-hub-green.vercel.app/)**  | A news aggregation platform delivering real-time updates globally. |
 | 🌍 **[Carbon Footprint Tracker](https://carbon-footprint-tracker-rho.vercel.app/)**  | Tracks and reduces carbon footprint for sustainable living. |
 | ✈️ **[Tour and Travel App](https://659b0dc3482624d15119b69b--endearing-rugelach-0c6e02.netlify.app/)** | Helps users plan trips effortlessly with curated travel packages. |
