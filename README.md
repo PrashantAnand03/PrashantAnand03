@@ -19,10 +19,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
   - **Version Control:** Git, GitHub
   - **Database:** MongoDB
   - **Tools & Technologies:** VS Code
-
-<br>
-<br>
-
+---
 ## 🚀 **My GitHub Stats**
 ![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide=c,cpp)
 
