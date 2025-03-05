@@ -23,6 +23,40 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 
 ---
 
+## 🔥 **Major Projects**
+### 📌 [Insight-hub News App](https://insight-hub-green.vercel.app/)
+📰 Insight Hub is a dynamic news platform that curates and delivers the latest updates and insights on current events from across the globe.
+
+### 🌱 [Carbon Footprint Tracker App](https://carbon-footprint-tracker-rho.vercel.app/)
+🌍 Empowers individuals and organizations to monitor, reduce, and take control of their carbon footprint for a greener future.
+
+### ✈️ [Tour and Travel App](https://659b0dc3482624d15119b69b--endearing-rugelach-0c6e02.netlify.app/)
+🚀 Enables users to effortlessly explore destination packages and hotels for seamless travel planning.
+
+---
+
+## 🏗 **Open Source Contributions**
+🎯 Actively contributing to open-source projects to help the developer community and gain collaborative experience.
+
+✔️ Contributed to **Hacktoberfest** & various open-source repositories.  
+✔️ Pull requests made to **MERN stack** & **React.js** projects.  
+✔️ Always looking for exciting open-source projects to contribute!  
+
+---
+
+## 🎯 **Hackathons & Competitions**
+🎖 Participated in **multiple hackathons**, showcasing innovative ideas and building real-world projects under time constraints.
+
+![Hackathon Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+✔️ **Hack The Mountains 2023** – Developed a **real-time collaborative coding platform**.  
+✔️ **DevHack 2024** – Created a **Smart Expense Tracker** using **React & Firebase**.  
+✔️ **CodeFest 2024** – Built a **health tracking app** that won **Best UI/UX Design**.  
+
+Always ready for the next big challenge! 🚀  
+
+---
+
 ## 🛠 **Tech Stack**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
