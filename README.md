@@ -16,14 +16,13 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 <h2 align="center">🛠 My Technical Skills</h2>  
   
   💻 Languages:
-  <p align="center">
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br>
 
   🌐 Front-End:
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <br>
@@ -41,11 +40,13 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+---
 
 ## 🏆 **Achievements & Badges**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&row=1&column=3&margin-w=15" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://media.geeksforgeeks.org/badges_dir/07b30f0449c44e9936aa5eead13873623447ee6d553428705ac5a7aac8d8490b.png" alt="GeeksforGeeks Badge" width="150px">
 </div>
 
 ---
