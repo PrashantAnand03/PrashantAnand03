@@ -72,17 +72,18 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
       <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" alt="Top Languages"/>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img width="450em" src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-    </td>
-  </tr>
 </table>
 
 
 ## 📊 **GitHub Contribution Graph**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)
-
+<table>
+<tr>
+    <td align="center" colspan="2">
+      <img width="450em" src="https://streak-stats.demolab.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🔥 **Notable Projects**
