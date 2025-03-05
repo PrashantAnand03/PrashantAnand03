@@ -29,7 +29,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
         <img src="https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide=c,cpp" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=10&hide=c,cpp,python" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=10&hide=c,cpp,python,java" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" />
