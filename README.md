@@ -50,6 +50,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
     <td><a href="https://xathon.mettl.com/"><img src="https://xathon.mettl.com/assets/captain_hack.svg" width="100px" height="100px" alt="Captain Hack Badge" /></a></td>
     <td><a href="https://github.com/PrashantAnand03"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" height="100px" alt="Pull Shark Badge" /></a></td>
     <td><a href="https://github.com/users/PrashantAnand03/achievements/quickdraw"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100px" height="100px" alt="Quickdraw Badge" /></a></td>
+    <td><a href="https://www.geeksforgeeks.org/"><img src="https://media.geeksforgeeks.org/badges_dir/07b30f0449c44e9936aa5eead13873623447ee6d553428705ac5a7aac8d8490b.png" width="100px" height="100px" alt="GeeksforGeeks Badge" /></a></td>
 </tr>
 </table>
 
