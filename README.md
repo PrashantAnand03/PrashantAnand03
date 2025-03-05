@@ -48,6 +48,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
     <td><img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4&title=Commit,Repositories,PullRequest,Junior" alt="Trophies" /></td>
     <td><img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" alt="GSSoC Badge" /></td>
     <td><a href="https://github.com/PrashantAnand03"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" height="100px" alt="Pull Shark Badge" /></a></td>
+<td><a href="https://github.com/users/PrashantAnand03/achievements/quickdraw"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" height="100px" alt="quickdraw Badge" /></a></td>
 </tr>
 </table>
 
@@ -103,9 +104,19 @@ Here are some of my best projects 🚀
 |-----------|--------------|
 | 🏆 **Mercer mettl Limitless Hackathon'24** | Crafted a **Carbon Footprint Tracker App**, **Ranked 22nd and placed among the top 50 teams**. |
 
-![Hackathon Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-![Teamwork in a Hackathon](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif) 
-![Intense Coding Mode](https://media.giphy.com/media/l3q2Ip7FrmPEuJgJy/giphy.gif)  
+![Hackathon Hustle](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)  
+
+![Debugging Madness](https://media.giphy.com/media/l0MYKDrj6SXHzRGu4/giphy.gif)  
+
+![Flow State Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
+
+![Hackathon Win](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+  
+![Pair Programming](https://media.giphy.com/media/2tMYOWRjFHveuOB6jg/giphy.gif)  
+ 
+![Bug Fixing](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)  
+
+![Success Coding](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)  
 
 ---
 
