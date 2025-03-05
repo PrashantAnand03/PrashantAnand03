@@ -46,10 +46,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 
 <table>
   <tr>
-    <!-- GitHub Trophies (Only selected ones) -->
-    <td><img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&title=Commit,Repositories,PullRequest,Junior" alt="Trophies" /></td>
-
-    <td><img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="120px" height="120px" alt="GSSoC Badge" /></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&title=Commit,Repositories,PullRequest,Junior" alt="Trophies" /><td><img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" alt="GSSoC Badge" /></td></td>
   </tr>
 </table>
 
