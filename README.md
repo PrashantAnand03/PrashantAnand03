@@ -7,8 +7,10 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 ---
 
 ## 🚀 **My GitHub Stats**
-[Profile Views](https://komarev.com/ghpvc/?username=PrashantAnand03&label=Profile%20Views&color=0e75b6&style=flat)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight)
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide=stars,issues&include_all_commits=true)
+
+### 🔥 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=6&hide=c,cpp,python)
 
 ### 🔥 **GitHub Streak**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PrashantAnand03&theme=dark&hide_border=true&background=000000)
@@ -27,13 +29,15 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 
 ## 🔥 **Major Projects**
 ### 📌 [Insight-hub News App](https://insight-hub-green.vercel.app/)
-📰 Insight Hub is a dynamic news platform that curates and delivers the latest updates and insights on current events from across the globe.
+📰 A dynamic news platform that curates and delivers the latest updates from around the world.
 
 ### 🌱 [Carbon Footprint Tracker App](https://carbon-footprint-tracker-rho.vercel.app/)
-🌍 Empowers individuals and organizations to monitor, reduce, and take control of their carbon footprint for a greener future.
+🌍 Helps individuals & organizations monitor and reduce their carbon footprint.
 
 ### ✈️ [Tour and Travel App](https://659b0dc3482624d15119b69b--endearing-rugelach-0c6e02.netlify.app/)
-🚀 Enables users to effortlessly explore destination packages and hotels for seamless travel planning.
+🚀 Enables users to explore destinations, packages, and hotels for seamless travel planning.
+
+🔗 **More Projects:** [Check them out on Vercel!](https://vercel.com/prashant-anands-projects-26cca4e7)  
 
 ---
 
@@ -51,7 +55,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 
 ![Hackathon Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-✔️ **Hack The Mountains 2023** – Developed a **real-time collaborative coding platform**.  
+✔️ **Hack The Mountains 2023** – Built a **real-time collaborative coding platform**.  
 ✔️ **DevHack 2024** – Created a **Smart Expense Tracker** using **React & Firebase**.  
 ✔️ **CodeFest 2024** – Built a **health tracking app** that won **Best UI/UX Design**.  
 
@@ -61,8 +65,8 @@ Always ready for the next big challenge! 🚀
 
 ## 🛠 **Tech Stack**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
