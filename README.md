@@ -18,7 +18,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 ---
 
 ## 🏆 **GSSOC(2024) Badges**
-![Trophies]( <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />)
+![Trophies]<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
  
 
 ---
