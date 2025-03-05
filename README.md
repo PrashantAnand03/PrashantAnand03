@@ -11,7 +11,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight)
 
 ### 🔥 **GitHub Streak**
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrashantAnand03&theme=dark&hide_border=true&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false)
 
 ---
 
