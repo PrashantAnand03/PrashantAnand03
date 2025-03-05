@@ -14,8 +14,7 @@ I’m a **Full Stack MERN Developer** passionate about building **high-performan
 
 ---
 <h2 align="center">🛠 My Technical Skills</h2>  
-
-<p align="center">
+  
   💻 Languages:
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
