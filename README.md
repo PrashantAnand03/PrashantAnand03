@@ -4,6 +4,25 @@
 
 I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsive websites that enhance user experiences.
 
+- 😀 Pronouns: He/Him
+  - 🔭 I’m currently working on enhancing my coding skills while developing dynamic websites.
+  - 🌱 I’m currently learning MERN Stack.
+  - 👯 I’m looking to collaborate on an Open-Source project
+  - 💬 Ask me about Front-end Development and Java.
+  - 📫 How to reach me: [Email](mailto:prashantanandcse2025@gmail.com)
+    <!--  - ⚡ **Personal Website:** [Portfolio](link). -->
+
+- ## Skills
+  - **Programming Language:** Java 
+  - **Front-end development:** HTML, CSS, JavaScript 
+  - **Front-end Frameworks:** React.js, Bootstrap 5
+  - **Version Control:** Git, GitHub
+  - **Database:** MySQL 
+  - **Tools & Technologies:** VS Code
+
+<br>
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=PrashantAnand03&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
