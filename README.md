@@ -20,16 +20,24 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
   - **Database:** MongoDB
   - **Tools & Technologies:** VS Code
 ---
-## 🚀 **My GitHub Stats**
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide=c,cpp)
+## 🚀 **My GitHub Stats**  
 
-### 🏆 **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=10&hide=c,cpp,python)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide=c,cpp" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=10&hide=c,cpp,python" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🔥 **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrashantAnand03&theme=tokyonight&hide_border=false)
-
----
 
 ## 🏆 **GSSOC(2024) Badges**
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-https://gssoc.girlscript.tech/badges/1.png?imwidth=96=true&no-frame=true)
