@@ -7,7 +7,7 @@ I'm a **Full Stack MERN Developer** passionate about crafting dynamic, responsiv
 ---
 
 ## 🚀 **My GitHub Stats**
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight)
+[Profile Views](https://komarev.com/ghpvc/?username=PrashantAnand03&label=Profile%20Views&color=0e75b6&style=flat)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight)
 
 ### 🔥 **GitHub Streak**
