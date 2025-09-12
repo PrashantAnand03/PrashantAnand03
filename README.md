@@ -3,7 +3,7 @@
 # Hi there, I'm Prashant Anand 👋
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
-I’m a **Full Stack Web Developer** passionate about building **high-performance, scalable** web applications. I enjoy **developing open-source projects, contributing to hackathons**, and continuously **enhancing my skills**.
+I am a **Full Stack Web Developer** passionate about building **high-performance, scalable** web applications. I enjoy **developing open-source projects, contributing to hackathons**, and continuously **enhancing my skills**.
 
 💡 **What I Do:**  
 - 🎯 Specializing in **Full Stack Development**  
