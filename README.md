@@ -39,7 +39,9 @@ I am a **Java Backend Developer** passionate about building **scalable, reliable
 
 <table>
   <tr>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4&title=Commit,Repositories,PullRequest,Junior" alt="Trophies" /></td>
+    <!-- <td><img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4&title=Commit,Repositories,PullRequest,Junior" alt="Trophies" /></td>
+    <td><img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" alt="GSSoC Badge" /></td> -->
+    <td><img src="https://github-profile-trophy.vercel.app/?username=PrashantAnand03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4&title=Commit,Repositories,PullRequest,Junior" width="400px" alt="GitHub Trophies" /></td>
     <td><img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" alt="GSSoC Badge" /></td>
     <td><a href="https://xathon.mettl.com/"><img src="https://xathon.mettl.com/assets/captain_hack.svg" width="100px" height="100px" alt="Captain Hack Badge" /></a></td>
     <td><a href="https://github.com/PrashantAnand03"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" height="100px" alt="Pull Shark Badge" /></a></td>
@@ -112,8 +114,8 @@ Here are some of my best projects 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prashantanand03/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/PrashantAnand03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:prashantanandcse2025@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/PrashanAnand)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:prashantanandgdd@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prashant_Anand/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://auth.geeksforgeeks.org/user/prashantanand03)
 
 ---
