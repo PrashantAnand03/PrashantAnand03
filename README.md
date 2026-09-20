@@ -53,50 +53,24 @@ I am a **Java Backend Developer** passionate about building **scalable, reliable
 <table width="100%" align="center">
   <tr>
     <td align="center" colspan="2">
-      <img
-        width="100%"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashantAnand03&theme=tokyonight"
-        alt="GitHub Profile Summary"
-      />
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashantAnand03&theme=tokyonight" alt="Profile Summary">
     </td>
   </tr>
 </table>
-
-<br>
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
-        alt="GitHub Stats"
-      />
+    <td align="center">
+      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
     </td>
-    <td align="center" width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=4&hide_border=false&count_private=true"
-        alt="Top Languages"
-      />
+    <td align="center">
+      <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<br>
-
-### 💻 **Most Used Technologies**
-
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
 <!--## 📊 **GitHub Contribution Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)
--->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)-->
 
 ---
 
