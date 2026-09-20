@@ -58,7 +58,7 @@ I am a **Java Backend Developer** passionate about building **scalable, reliable
   </tr>
 </table>
 
-<table width="100%" align="center">
+<!-- <table width="100%" align="center">
   <tr>
     <td align="center">
       <img width="400em" src="https://github-readme-stats.vercel.app/api?username=PrashantAnand03&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
@@ -67,10 +67,10 @@ I am a **Java Backend Developer** passionate about building **scalable, reliable
       <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAnand03&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" alt="Top Languages"/>
     </td>
   </tr>
-</table>
+</table> -->
 
-## 📊 **GitHub Contribution Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)
+<!--## 📊 **GitHub Contribution Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantAnand03&theme=tokyo-night)-->
 
 ---
 
