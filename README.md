@@ -13,7 +13,7 @@ I am a **Java Backend Developer** passionate about building **scalable, reliable
 * 🛠️ Working with **Spring Framework, Spring Data JPA, Hibernate, and MySQL**
 * 📚 Continuously enhancing my **coding, problem-solving, and software engineering** skills
 * 👯 Looking to collaborate on **Open Source & Hackathons**
-* 📫 Reach me via [Email](mailto:prashantanandcse2025@gmail.com)
+* 📫 Reach me via [Email](mailto:prashantanandgdd@gmail.com)
 
 ---
 
